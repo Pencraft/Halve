@@ -1,6 +1,5 @@
 ---
 layout: home
-redirect_from: "/"
 ---
 # About Theme
 
