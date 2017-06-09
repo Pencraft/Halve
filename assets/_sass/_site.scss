@@ -86,14 +86,14 @@ canvas {
     }
   }
   &:hover {
-    border-color: $green;
+    border-color: $pink;
     &:before {
-      border-color: $green;
+      border-color: $pink;
     }
     span {
-      border-color: $green;
+      border-color: $pink;
       &:before {
-        border-color: $green;
+        border-color: $pink;
       }
     }
   }
@@ -131,10 +131,10 @@ canvas {
     background: $white;
   }
   &:hover {
-    border-color: $green;
+    border-color: $pink;
     &:before,
     &:after {
-      border-color: $green;
+      border-color: $pink;
     }
   }
 }
@@ -354,7 +354,7 @@ canvas {
         left: 0;
         right: 0;
         bottom: 0;
-        background: $green;
+        background: $pink;
         -webkit-transform: scaleY(0);
         transform: scaleY(0);
         -webkit-transform-origin: 50% 100%;
@@ -421,7 +421,7 @@ canvas {
       -ms-transform: none;
       -o-transform: none;
       transform: none;
-      background: $green;
+      background: $pink;
       left: 0;
       width: 200px;
     }
