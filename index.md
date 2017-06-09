@@ -1,10 +1,16 @@
 ---
 layout: home
 ---
-# About Theme
+# About me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+I'm a programmer from California. I've worked as a
+computer science tutor at the University of Chicago,
+as an independent copy editor, and generally enjoy 
+designing anything from card games to conscripts.
+I love technology, media, and language. Oh, and Japan.
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+This is my personal site, where I keep all my assorted
+projects and occassionally blog about stuff I like. I'll
+try to update frequently; no guarantees.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+This website uses the [Halve](https://github.com/TaylanTatli/Halve) theme by [Taylan Tatli](https://github.com/TaylanTatli).
