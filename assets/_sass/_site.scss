@@ -506,7 +506,7 @@ canvas {
       display: inline-block;
       max-width: 75%;
       &:hover span {
-        border-bottom: 1px dotted $green;
+        border-bottom: 1px dotted $pink;
       }
     }
   }
@@ -565,7 +565,7 @@ canvas {
   }
   a:not(.btn):not(.pagination_pager) {
     color: #399f62;
-    border-bottom: 1px dotted $green;
+    border-bottom: 1px dotted $pink;
   }
   ul,
   ol {
@@ -602,7 +602,7 @@ canvas {
     font-size: 15px;
   }
   .section-line {
-    color: $green;
+    color: $pink;
     position: relative;
     display: -webkit-box;
     display: -moz-box;
@@ -624,7 +624,7 @@ canvas {
       margin-left: 10px;
     }
     a {
-      color: $green;
+      color: $pink;
       &:hover {
         color: #4dbe7a;
       }
@@ -856,7 +856,7 @@ canvas {
       border-radius: 0 4px 4px 0;
     }
     &:hover {
-      background-color: $green;
+      background-color: $pink;
       color: $white !important;
     }
     &.disabled {
